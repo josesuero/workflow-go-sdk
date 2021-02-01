@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	ellipse "workflowcore/sdk/ellipse"
+
+	ellipse "github.com/josesuero/workflow-go-sdk/ellipse"
 )
 
 func main() {
