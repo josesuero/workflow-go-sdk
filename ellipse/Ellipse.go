@@ -28,3 +28,8 @@ func (e *Init) GetB() float64 {
 func (e *Init) GetHello() string {
 	return "Hello"
 }
+
+// GetGoodBye asdf
+func (e *Init) GetGoodBye() string {
+	return "GoodBye"
+}
