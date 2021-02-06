@@ -23,3 +23,8 @@ func (e *Init) GetA() float64 {
 func (e *Init) GetB() float64 {
 	return e.B
 }
+
+// GetHello asdf
+func (e *Init) GetHello() string {
+	return "Hello"
+}
