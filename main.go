@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	//Initalise the Init function with value of A,B
+	//Initalise the Init function with value of A,B with keys
 	e := ellipse.Init{
 		A: 9, B: 2,
 	}
