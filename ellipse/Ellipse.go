@@ -18,3 +18,8 @@ func (e *Init) GetEccentricity() float64 {
 func (e *Init) GetA() float64 {
 	return e.A
 }
+
+// GetB asdf
+func (e *Init) GetB() float64 {
+	return e.B
+}
